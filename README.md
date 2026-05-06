@@ -1,3 +1,4 @@
+🔹 
 # Project 1
 One of the oldest and most important cultural events in the Arab world, the Riyadh International Book Fair began with just 120 publishers at King Saud University in 1978 and has since expanded to include 2,000 publishers from more than 30 countries. 
 The question this project asks is: What does the data actually show about the book fair era of transformation?
